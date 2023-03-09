@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "0f20a1dbcfa42dce",
+    "type": "split",
+    "children": [
+      {
+        "id": "f38c39ba080e14e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84f8a3bf221d2a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01メール.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a99a614efd3e5335",
+    "type": "split",
+    "children": [
+      {
+        "id": "171acf4564e3c487",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c66b93c3c690dfe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4f4f0c1051fd864",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98177ad161081db4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ffa68bf343599bd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cf6a97be1ff3f8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64d7e0913c5ef4ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01メール.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a1206e92ae6115f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01メール.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5f26012f59b250a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "072830474fe60620",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01メール.md"
+              }
+            }
+          },
+          {
+            "id": "c48ecd8a2f360a9f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0de2bf54d2286699",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "84f8a3bf221d2a50",
+  "lastOpenFiles": [
+    "01メール.md",
+    "2023-03-09.md",
+    "無題のファイル.canvas"
+  ]
+}
